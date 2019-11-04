@@ -1,0 +1,4 @@
+zappa_settings.json
+Pipfile.lock
+dynamodb_local_latest
+.vscode
